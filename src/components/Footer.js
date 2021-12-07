@@ -11,7 +11,7 @@ export default function Section(props) {
        <div className="media">
         <a href="/"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" alt="media"/></a>
         <a href="/"><img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" alt="media"/></a>
-        <a href="/"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="media"/></a>
+        <a href="/"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="mediaa"/></a>
        </div>
     
         </div>
