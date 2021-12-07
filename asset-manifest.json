@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/recruiting-website/static/css/main.f23680a7.chunk.css",
+    "main.js": "/recruiting-website/static/js/main.505b19a9.chunk.js",
+    "main.js.map": "/recruiting-website/static/js/main.505b19a9.chunk.js.map",
+    "runtime-main.js": "/recruiting-website/static/js/runtime-main.10990d97.js",
+    "runtime-main.js.map": "/recruiting-website/static/js/runtime-main.10990d97.js.map",
+    "static/js/2.d690afe1.chunk.js": "/recruiting-website/static/js/2.d690afe1.chunk.js",
+    "static/js/2.d690afe1.chunk.js.map": "/recruiting-website/static/js/2.d690afe1.chunk.js.map",
+    "static/js/3.1bdc6066.chunk.js": "/recruiting-website/static/js/3.1bdc6066.chunk.js",
+    "static/js/3.1bdc6066.chunk.js.map": "/recruiting-website/static/js/3.1bdc6066.chunk.js.map",
+    "index.html": "/recruiting-website/index.html",
+    "static/css/main.f23680a7.chunk.css.map": "/recruiting-website/static/css/main.f23680a7.chunk.css.map",
+    "static/js/2.d690afe1.chunk.js.LICENSE.txt": "/recruiting-website/static/js/2.d690afe1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10990d97.js",
+    "static/js/2.d690afe1.chunk.js",
+    "static/css/main.f23680a7.chunk.css",
+    "static/js/main.505b19a9.chunk.js"
+  ]
+}
